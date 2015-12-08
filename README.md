@@ -10,7 +10,7 @@ Please follow the below steps:
 &ensp;&ensp;&ensp;ensuring that `CHINESE_POSDEPENDENCY_PARSER jcad`  
 (3) run  "python configure.py chinese posdepparser"  
 (4) run command `cmake . `  generate Makefile  
-(5) compile using `make'  
+(5) compile using `make `    
 (6) copy the bin files in the bin folder into current folder  
 (7) run "./ctb70dep-exp.sh" in current github (not ZPar folder)
 
